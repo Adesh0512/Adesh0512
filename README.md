@@ -102,6 +102,19 @@ Audits a sample cloud data-engineering environment for access-control, encryptio
 
 ---
 
+### 🏅 Certifications
+
+| Certificate | Issued by | |
+|---|---|---|
+| ☁️ Cloud Data Engineering | Duke University · Coursera | [Verify](https://coursera.org/verify/N5B7H448IWNE) |
+| 🗄️ Foundations of Data Engineering and AWS Storage | Packt · Coursera | [Verify](https://coursera.org/verify/Q24DD3AUR0N5) |
+| 🌐 The Bits and Bytes of Computer Networking | Google · Coursera | [Verify](https://coursera.org/verify/XHCP3BZPYW9E) |
+| 🐍 Python from Scratch: Learn by Coding | JetBrains · Coursera | [Verify](https://coursera.org/verify/NF7LBQN8ZKF0) |
+| 🐍 Python Essentials 1 & 2 | Cisco Networking Academy | |
+| 💰 National Financial Literacy Quiz 2026 (participant) | NISM | |
+
+---
+
 ### 📈 GitHub stats
 
 <p align="center">
