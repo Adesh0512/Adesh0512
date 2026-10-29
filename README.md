@@ -1,11 +1,11 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24c6dc&height=220&section=header&text=Adesh%20Patankar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Big%20Data%20and%20Cloud%20Engineering%20%E2%80%A2%20Aspiring%20Tech%20Manager&descAlignY=58&descSize=20" alt="Adesh Patankar banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24c6dc&height=220&section=header&text=Adesh%20Patankar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Big%20Data%20and%20Cloud%20Engineering%20%E2%80%A2%20Aspiring%20Business%20Leader&descAlignY=58&descSize=20" alt="Adesh Patankar banner" />
 </p>
 
 <p align="center">
   <a href="https://github.com/Adesh0512">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=24C6DC&center=true&vCenter=true&width=640&lines=Big+Data+%26+Cloud+Engineering+student+%E2%98%81%EF%B8%8F;I+turn+ideas+into+working+products+%F0%9F%9A%80;Looking+for+roles+in+tech+management+%F0%9F%92%BC;Hospital+queues%2C+F1+predictions%2C+esports+platforms+%F0%9F%8F%8E%EF%B8%8F" alt="Typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=24C6DC&center=true&vCenter=true&width=640&lines=Big+Data+%26+Cloud+Engineering+student+%E2%98%81%EF%B8%8F;I+enjoy+building+side+projects+%F0%9F%9A%80;Looking+for+business+management+roles+%F0%9F%92%BC;Hospital+queues%2C+F1+predictions%2C+esports+platforms+%F0%9F%8F%8E%EF%B8%8F" alt="Typing intro" />
   </a>
 </p>
 
@@ -18,10 +18,9 @@
 ### 👋 About me
 
 - 🎓 **Big Data & Cloud Engineering** student
-- 💼 Looking for roles in **tech / project management**: I like owning a product from idea to launch
-- 🛠️ I turn ideas into working products, from **hospital queue systems** to **F1 race predictions**
-- 🤖 I build fast with **AI tools**, and focus on the problem, the plan and the result
-- 🌱 Currently learning: cloud, data platforms and product management
+- 💼 Hoping to start my career in business management
+- 🛠️ I enjoy building side projects, like a hospital queue system and an F1 race predictor
+- 🌱 Currently learning: business strategy, negotiation and cloud data platforms
 
 ### 🧰 Tools used in my projects
 
